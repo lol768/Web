@@ -54,3 +54,11 @@
 
     mbaxter - work on Kitteh IRC Client Library
         GitHub: https://github.com/mbax/
+
+    evilmidget38 - support with resources
+        Twitter: @evilmidget38
+        GitHub: https://github.com/evilmidget38/
+        
+    Z750 - support with resources
+        Twitter: @Zbob750
+        GitHub: https://github.com/Zbob750
